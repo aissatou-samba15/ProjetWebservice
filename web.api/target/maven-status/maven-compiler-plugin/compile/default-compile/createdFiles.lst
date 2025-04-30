@@ -1,0 +1,14 @@
+web\unchk\gl\web\api\contrller\LivreController.class
+web\unchk\gl\web\api\model\Reservation.class
+web\unchk\gl\web\api\service\LivreService.class
+web\unchk\gl\web\api\soap\ReservationEndpoint.class
+web\unchk\gl\web\api\model\Livre.class
+web\unchk\gl\web\api\soap\ReservationResponse.class
+web\unchk\gl\web\api\repository\LivreRepository.class
+web\unchk\gl\web\api\dto\ReservationRequest.class
+web\unchk\gl\web\api\service\ReservationService.class
+web\unchk\gl\web\api\Application.class
+web\unchk\gl\web\api\repository\ReservationRepository.class
+web\unchk\gl\web\api\config\SoapWebServiceConfig.class
+web\unchk\gl\web\api\contrller\ReservationController.class
+web\unchk\gl\web\api\soap\ReservationRequest.class

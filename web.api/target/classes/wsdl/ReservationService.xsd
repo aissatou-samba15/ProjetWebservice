@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://web.unchk.gl/web/api/soap"
+    xmlns:tns="http://web.unchk.gl/web/api/soap"
+    elementFormDefault="qualified">
+
+    <!-- Définition de la requête ReserverLivreRequest -->
+    <xs:element name="ReserverLivreRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="idLivre" type="xs:long"/>
+                <xs:element name="nomEmprunteur" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <!-- Définition de la réponse ReserverLivreResponse -->
+    <xs:element name="ReserverLivreResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="confirmation" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

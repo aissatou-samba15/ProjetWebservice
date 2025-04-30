@@ -1,0 +1,14 @@
+C:\web.api\src\main\java\web\unchk\gl\web\api\Application.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\config\SoapWebServiceConfig.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\contrller\LivreController.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\contrller\ReservationController.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\dto\ReservationRequest.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\model\Livre.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\model\Reservation.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\repository\LivreRepository.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\repository\ReservationRepository.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\service\LivreService.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\service\ReservationService.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\soap\ReservationEndpoint.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\soap\ReservationRequest.java
+C:\web.api\src\main\java\web\unchk\gl\web\api\soap\ReservationResponse.java
